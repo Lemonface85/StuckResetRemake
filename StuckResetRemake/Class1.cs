@@ -5,7 +5,7 @@ using MelonLoader;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-[assembly: MelonInfo(typeof(StuckResetRemake.StuckResetRemake), "StuckResetRemake", "1.0.0", "Lemonface85")]
+[assembly: MelonInfo(typeof(StuckResetRemake.StuckResetRemake), "StuckResetRemake", "1.0.2", "Lemonface85")]
 [assembly: MelonGame("Buckethead Entertainment", "RUMBLE")]
 [assembly: MelonColor(255, 132, 66, 255)]
 
